@@ -81,6 +81,15 @@ MySql - Trabalhando com as suas primeiras tabelas
 [Visualizar certificado](https://certificates.digitalinnovation.one/D5F9C09E)<br>
 
 
+Orientação a objetos em .NET
+----------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 23 de Março de 2021<br>
+**Código do certificado:** [C96A99FA](https://certificates.digitalinnovation.one/C96A99FA)<br>
+[Visualizar certificado](https://certificates.digitalinnovation.one/C96A99FA)<br>
+
+
 Primeiros passos com .NET + C#
 ------------------------------
 **Modalidade:** Ensino à Distância<br>
