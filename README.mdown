@@ -16,3 +16,12 @@ Python 3 - Mundo 1
 **Emitido em:** 23 de Dezembro de 2020<br>
 **Código do certificado:** [1D811-66E2-8](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=1D811-66E2-8)<br>
 [Visualizar certificado](https://drive.google.com/file/d/1Jn6uuX8sZQH_HRnT6CPqSyf1YlxcoSqy/view?usp=sharing)<br>
+
+
+Python 3 - Mundo 2
+------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Curso em Vídeo](https://www.cursoemvideo.com/course/python-3-mundo-2/)<br>
+**Emitido em:** 12 de Janeiro de 2021<br>
+**Código do certificado:** [1D811-67AC-5](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=1D811-67AC-5)<br>
+[Visualizar certificado](https://drive.google.com/file/d/1Xj1I4PkQy-XiZM5DL1b9eAtiJWiOlAue/view?usp=sharing)<br>
