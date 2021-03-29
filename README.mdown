@@ -36,6 +36,15 @@ Jornada Python Faixa Preta 2.0
 [Visualizar certificado](https://drive.google.com/file/d/1MREqMTkPgyh1gjFugp1shYj903e8FkQy/view?usp=sharing)<br>
 
 
+MySql - Explorando relacionamentos com workbench
+------------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 15 de Março de 2021<br>
+**Código do certificado:** [9AD50BEE](https://certificates.digitalinnovation.one/9AD50BEE)<br>
+[Visualizar certificado](https://certificates.digitalinnovation.one/9AD50BEE)<br>
+
+
 MySql - Trabalhando com as suas primeiras tabelas
 -------------------------------------------------
 **Modalidade:** Ensino à Distância<br>
