@@ -9,6 +9,15 @@ Git-Start
 [Visualizar certificado](https://drive.google.com/open?id=1ccDV26Nk7TocG1yhnb4b3EBOsE7N-Rhr)<br>
 
 
+Introdução ao C# e Imersão ao .NET Framework
+--------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Balta.io](https://balta.io/cursos/introducao-ao-csharp-e-imersao-ao-dotnet-framework)<br>
+**Emitido em:** 10 de Março de 2021<br>
+**Código do certificado:** [99d8137d-9515-4e0f-9014-a944cb9ab3ec](https://balta.io/certificados/99d8137d-9515-4e0f-9014-a944cb9ab3ec)<br>
+[Visualizar certificado](https://balta.io/certificados/99d8137d-9515-4e0f-9014-a944cb9ab3ec)<br>
+
+
 Introdução ao Git e ao GitHub
 -----------------------------
 **Modalidade:** Ensino à Distância<br>
