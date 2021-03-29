@@ -18,6 +18,15 @@ Jornada Python Faixa Preta 2.0
 [Visualizar certificado](https://drive.google.com/file/d/1MREqMTkPgyh1gjFugp1shYj903e8FkQy/view?usp=sharing)<br>
 
 
+Primeiros passos com .NET + C#
+------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 09 de Março de 2021<br>
+**Código do certificado:** [5AE2C59A](https://certificates.digitalinnovation.one/5AE2C59A)<br>
+[Visualizar certificado](https://certificates.digitalinnovation.one/5AE2C59A)<br>
+
+
 Python 3 - Mundo 1
 ------------------
 **Modalidade:** Ensino à Distância<br>
