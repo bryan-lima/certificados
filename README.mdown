@@ -9,6 +9,15 @@ Git-Start
 [Visualizar certificado](https://drive.google.com/open?id=1ccDV26Nk7TocG1yhnb4b3EBOsE7N-Rhr)<br>
 
 
+Introdução ao Git e ao GitHub
+-----------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 10 de Março de 2021<br>
+**Código do certificado:** [A021FC05](https://certificates.digitalinnovation.one/A021FC05)<br>
+[Visualizar certificado](https://certificates.digitalinnovation.one/A021FC05)<br>
+
+
 Jornada Python Faixa Preta 2.0
 ------------------------------
 **Modalidade:** Ensino à Distância<br>
