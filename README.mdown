@@ -1,6 +1,15 @@
 Certificados
 ============
 
+Aprenda o que são Estrutura de Dados e Algoritmos
+-------------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 23 de Março de 2021<br>
+**Código do certificado:** [955DA969](https://certificates.digitalinnovation.one/955DA969)<br>
+[Visualizar certificado](https://certificates.digitalinnovation.one/955DA969)<br>
+
+
 Conceitos e melhores práticas com banco de dados PostgreSQL
 -----------------------------------------------------------
 **Modalidade:** Ensino à Distância<br>
