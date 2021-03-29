@@ -36,6 +36,15 @@ Jornada Python Faixa Preta 2.0
 [Visualizar certificado](https://drive.google.com/file/d/1MREqMTkPgyh1gjFugp1shYj903e8FkQy/view?usp=sharing)<br>
 
 
+MySQL
+-----
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Curso em Vídeo](https://www.cursoemvideo.com/course/mysql/)<br>
+**Emitido em:** 18 de Março de 2021<br>
+**Código do certificado:** [1D811-6573-8](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=1D811-6573-8)<br>
+[Visualizar certificado](https://drive.google.com/file/d/1apBvsUIkuFD64V82Y9iYkWV-by64FMv2/view?usp=sharing)<br>
+
+
 MySql - Explorando relacionamentos com workbench
 ------------------------------------------------
 **Modalidade:** Ensino à Distância<br>
