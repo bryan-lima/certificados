@@ -1,6 +1,9 @@
 Certificados
 ============
 
+Este repositório concentra uma lista, em ordem alfabética, de certificados emitidos dos cursos que finalizei.
+
+
 Aprenda o que são Estrutura de Dados e Algoritmos
 -------------------------------------------------
 **Modalidade:** Ensino à Distância<br>
