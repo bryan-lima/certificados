@@ -7,3 +7,12 @@ Git-Start
 **Local:** [ETEC Cônego José Bento](https://www.cps.sp.gov.br/etecs/etec-conego-jose-bento/)<br>
 **Emitido em:** 07 de Maio de 2016<br>
 [Visualizar certificado](https://drive.google.com/open?id=1ccDV26Nk7TocG1yhnb4b3EBOsE7N-Rhr)<br>
+
+
+Python 3 - Mundo 1
+------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Curso em Vídeo](https://www.cursoemvideo.com/course/python-3-mundo-1/)<br>
+**Emitido em:** 23 de Dezembro de 2020<br>
+**Código do certificado:** [1D811-66E2-8](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=1D811-66E2-8)<br>
+[Visualizar certificado](https://drive.google.com/file/d/1Jn6uuX8sZQH_HRnT6CPqSyf1YlxcoSqy/view?usp=sharing)<br>
