@@ -30,6 +30,15 @@ Git-Start
 [Visualizar certificado](https://drive.google.com/open?id=1ccDV26Nk7TocG1yhnb4b3EBOsE7N-Rhr)<br>
 
 
+Iniciando com ASP.NET Core
+--------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core)<br>
+**Emitido em:** 29 de Março de 2021<br>
+**Código do certificado:** [2e4512bb-f1b2-46ba-a401-ea6e55c76728](https://desenvolvedor.io/certificados/2e4512bb-f1b2-46ba-a401-ea6e55c76728)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/2e4512bb-f1b2-46ba-a401-ea6e55c76728)<br>
+
+
 Introdução ao C# e Imersão ao .NET Framework
 --------------------------------------------
 **Modalidade:** Ensino à Distância<br>
