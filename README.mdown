@@ -111,6 +111,15 @@ Primeiros passos com .NET + C#
 [Visualizar certificado](https://certificates.digitalinnovation.one/5AE2C59A)<br>
 
 
+Produtividade com VSCode
+------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Cod3r](https://www.cod3r.com.br)<br>
+**Emitido em:** 13 de Maio de 2021<br>
+**Código do certificado:** [1gpaetfvty](https://www.cod3r.com.br/certificates/1gpaetfvty)<br>
+[Visualizar certificado](https://www.cod3r.com.br/certificates/1gpaetfvty)<br>
+
+
 Python 3 - Mundo 1
 ------------------
 **Modalidade:** Ensino à Distância<br>
