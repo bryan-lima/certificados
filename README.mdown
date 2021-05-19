@@ -30,6 +30,15 @@ Git-Start
 [Visualizar certificado](https://drive.google.com/open?id=1ccDV26Nk7TocG1yhnb4b3EBOsE7N-Rhr)<br>
 
 
+GitLab Certified Associate
+--------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [GitLab Learn](https://gitlab.edcast.com)<br>
+**Emitido em:** 11 de Maio de 2021<br>
+**Código do certificado:** [k8FQFb7SQqmgnRv5vcLG0g](https://api.badgr.io/public/assertions/k8FQFb7SQqmgnRv5vcLG0g)<br>
+[Visualizar certificado](https://drive.google.com/file/d/1SwKXwItG3sgFFbQj4dQtTscI_JDazXsH/view?usp=sharing)<br>
+
+
 Iniciando com ASP.NET Core
 --------------------------
 **Modalidade:** Ensino à Distância<br>
