@@ -163,3 +163,12 @@ SQL Server - Criando suas Primeiras Consultas
 **Emitido em:** 10 de Março de 2021<br>
 **Código do certificado:** [605E1ECA](https://certificates.digitalinnovation.one/605E1ECA)<br>
 [Visualizar certificado](https://certificates.digitalinnovation.one/605E1ECA)<br>
+
+
+Trabalhando com Git e GitLab na prática
+---------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 26 de Junho de 2021<br>
+**Código do certificado:** [6F34CDF1](https://certificates.digitalinnovation.one/6F34CDF1)<br>
+[Visualizar certificado](https://hermes.digitalinnovation.one/certificates/6F34CDF1.pdf)<br>
