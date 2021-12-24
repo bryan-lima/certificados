@@ -13,6 +13,15 @@ Aprenda o que são Estrutura de Dados e Algoritmos
 [Visualizar certificado](https://certificates.digitalinnovation.one/955DA969)<br>
 
 
+C# Completo - Programação Orientada a Objetos + Projetos
+--------------------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Udemy](https://www.udemy.com)<br>
+**Emitido em:** 13 de Dezembro de 2021<br>
+**Código do certificado:** [UC-cbca1d24-7864-4a1c-a3d3-fdfa902742e9](https://www.udemy.com/certificate/UC-cbca1d24-7864-4a1c-a3d3-fdfa902742e9/)<br>
+[Visualizar certificado](https://www.udemy.com/certificate/UC-cbca1d24-7864-4a1c-a3d3-fdfa902742e9/)<br>
+
+
 Conceitos e melhores práticas com banco de dados PostgreSQL
 -----------------------------------------------------------
 **Modalidade:** Ensino à Distância<br>
