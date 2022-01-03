@@ -66,6 +66,15 @@ Introdução ao C# e Imersão ao .NET Framework
 [Visualizar certificado](https://balta.io/certificados/99d8137d-9515-4e0f-9014-a944cb9ab3ec)<br>
 
 
+Introdução ao Entity Framework Core
+-----------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-introducao-entity-framework-core)<br>
+**Emitido em:** 03 de Janeiro de 2022<br>
+**Código do certificado:** [6f8be5cd-ee95-42e4-9d5f-d15dcd675066](https://desenvolvedor.io/certificados/6f8be5cd-ee95-42e4-9d5f-d15dcd675066/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/6f8be5cd-ee95-42e4-9d5f-d15dcd675066)<br>
+
+
 Introdução ao Git e ao GitHub
 -----------------------------
 **Modalidade:** Ensino à Distância<br>
