@@ -31,6 +31,15 @@ Conceitos e melhores práticas com banco de dados PostgreSQL
 [Visualizar certificado](https://certificates.digitalinnovation.one/3B00F495)<br>
 
 
+Dominando o Entity Framework Core
+---------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-dominando-o-entity-framework-core)<br>
+**Emitido em:** 20 de Fevereiro de 2022<br>
+**Código do certificado:** [b9e83688-80ac-425f-8c5d-b820e4f4bedb](https://desenvolvedor.io/certificados/b9e83688-80ac-425f-8c5d-b820e4f4bedb/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/b9e83688-80ac-425f-8c5d-b820e4f4bedb)<br>
+
+
 Git-Start
 ---------
 **Modalidade:** Presencial<br>
