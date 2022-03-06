@@ -183,6 +183,15 @@ Python 3 - Mundo 3
 [Visualizar certificado](https://drive.google.com/file/d/1nizq1RlScie3Zlc4h5_k_oj9IKvvmSU0/view?usp=sharing)<br>
 
 
+SQL para Desenvolvedores
+------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-sql-para-desenvolvedores)<br>
+**Emitido em:** 01 de Março de 2022<br>
+**Código do certificado:** [b93177bd-0aed-42b3-942e-b80c9c236a26](https://desenvolvedor.io/certificados/b93177bd-0aed-42b3-942e-b80c9c236a26/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/b93177bd-0aed-42b3-942e-b80c9c236a26)<br>
+
+
 SQL Server - Criando suas Primeiras Consultas
 ---------------------------------------------
 **Modalidade:** Ensino à Distância<br>
