@@ -40,6 +40,15 @@ Dominando o Entity Framework Core
 [Visualizar certificado](https://desenvolvedor.io/certificado/b9e83688-80ac-425f-8c5d-b820e4f4bedb)<br>
 
 
+Fundamentos de IdentityServer4
+------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-fundamentos-de-identity-server)<br>
+**Emitido em:** 13 de Março de 2022<br>
+**Código do certificado:** [1c5d9d7c-60a1-4e88-8de0-6d8f16c9dfd0](https://desenvolvedor.io/certificados/1c5d9d7c-60a1-4e88-8de0-6d8f16c9dfd0/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/1c5d9d7c-60a1-4e88-8de0-6d8f16c9dfd0)<br>
+
+
 Git-Start
 ---------
 **Modalidade:** Presencial<br>
