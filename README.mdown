@@ -31,6 +31,15 @@ Conceitos e melhores práticas com banco de dados PostgreSQL
 [Visualizar certificado](https://certificates.digitalinnovation.one/3B00F495)<br>
 
 
+Dominando o ASP.NET MVC Core
+----------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-dominando-o-asp-net-mvc-core)<br>
+**Emitido em:** 01 de Maio de 2022<br>
+**Código do certificado:** [22136c90-4eab-4a79-9b0e-7eacc40d46a6](https://desenvolvedor.io/certificados/22136c90-4eab-4a79-9b0e-7eacc40d46a6/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/22136c90-4eab-4a79-9b0e-7eacc40d46a6)<br>
+
+
 Dominando o Entity Framework Core
 ---------------------------------
 **Modalidade:** Ensino à Distância<br>
