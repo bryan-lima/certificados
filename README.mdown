@@ -165,6 +165,15 @@ Primeiros passos com .NET + C#
 [Visualizar certificado](https://certificates.digitalinnovation.one/5AE2C59A)<br>
 
 
+Primeiros passos com Dart
+-------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 30 de Maio de 2022<br>
+**Código do certificado:** [ED7C27F9](https://certificates.digitalinnovation.one/ED7C27F9)<br>
+[Visualizar certificado](https://certificates.digitalinnovation.one/ED7C27F9)<br>
+
+
 Produtividade com VSCode
 ------------------------
 **Modalidade:** Ensino à Distância<br>
