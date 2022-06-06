@@ -84,6 +84,15 @@ Iniciando com ASP.NET Core
 [Visualizar certificado](https://desenvolvedor.io/certificado/2e4512bb-f1b2-46ba-a401-ea6e55c76728)<br>
 
 
+Iniciativa Kubernetes
+---------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Kubedev.io](https://kubedev.io)<br>
+**Emitido em:** 07 de Abril de 2022<br>
+**Código do certificado:** [5960bc6469b7b7b14ba7ed98381d4382](https://gerarcertificado.com.br/validar/?cert=5960bc6469b7b7b14ba7ed98381d4382)<br>
+[Visualizar certificado](https://gerarcertificado.com.br/validar/?cert=5960bc6469b7b7b14ba7ed98381d4382)<br>
+
+
 Introdução ao C# e Imersão ao .NET Framework
 --------------------------------------------
 **Modalidade:** Ensino à Distância<br>
