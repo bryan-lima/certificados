@@ -219,6 +219,15 @@ Python 3 - Mundo 3
 [Visualizar certificado](https://drive.google.com/file/d/1nizq1RlScie3Zlc4h5_k_oj9IKvvmSU0/view?usp=sharing)<br>
 
 
+REST com ASP.NET Core WebAPI
+----------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-rest-com-asp-net-core-webapi)<br>
+**Emitido em:** 03 de Junho de 2022<br>
+**Código do certificado:** [b7def8a0-9726-474b-8b3a-38fbbdfbda16](https://desenvolvedor.io/certificados/b7def8a0-9726-474b-8b3a-38fbbdfbda16/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/b7def8a0-9726-474b-8b3a-38fbbdfbda16)<br>
+
+
 SQL para Desenvolvedores
 ------------------------
 **Modalidade:** Ensino à Distância<br>
