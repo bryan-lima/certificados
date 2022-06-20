@@ -253,3 +253,12 @@ Trabalhando com Git e GitLab na prática
 **Emitido em:** 26 de Junho de 2021<br>
 **Código do certificado:** [6F34CDF1](https://certificates.digitalinnovation.one/6F34CDF1)<br>
 [Visualizar certificado](https://hermes.digitalinnovation.one/certificates/6F34CDF1.pdf)<br>
+
+
+Trabalhando com variáveis e condicionais no Dart
+------------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
+**Emitido em:** 19 de Junho de 2022<br>
+**Código do certificado:** [596DDDE4](https://certificates.digitalinnovation.one/596DDDE4)<br>
+[Visualizar certificado](https://hermes.digitalinnovation.one/certificates/596DDDE4.pdf)<br>
