@@ -49,6 +49,15 @@ Dominando o Entity Framework Core
 [Visualizar certificado](https://desenvolvedor.io/certificado/b9e83688-80ac-425f-8c5d-b820e4f4bedb)<br>
 
 
+Dominando os Testes de Software
+-------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-dominando-os-testes-de-software)<br>
+**Emitido em:** 11 de Setembro de 2022<br>
+**Código do certificado:** [ef71fb48-3567-472b-b77a-46da5300baea](https://desenvolvedor.io/certificados/ef71fb48-3567-472b-b77a-46da5300baea/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/ef71fb48-3567-472b-b77a-46da5300baea)<br>
+
+
 Fundamentos de Arquitetura de Software
 --------------------------------------
 **Modalidade:** Ensino à Distância<br>
