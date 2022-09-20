@@ -58,6 +58,15 @@ Dominando os Testes de Software
 [Visualizar certificado](https://desenvolvedor.io/certificado/ef71fb48-3567-472b-b77a-46da5300baea)<br>
 
 
+Formação Arquiteto de Software
+------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/formacao/arquiteto-de-software)<br>
+**Emitido em:** 11 de Setembro de 2022<br>
+**Código do certificado:** [9afe2fef-db73-4d91-9925-68966f91216a](https://desenvolvedor.io/certificados/9afe2fef-db73-4d91-9925-68966f91216a/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/9afe2fef-db73-4d91-9925-68966f91216a)<br>
+
+
 Fundamentos de Arquitetura de Software
 --------------------------------------
 **Modalidade:** Ensino à Distância<br>
