@@ -138,6 +138,15 @@ Jornada Python Faixa Preta 2.0
 [Visualizar certificado](https://drive.google.com/file/d/1MREqMTkPgyh1gjFugp1shYj903e8FkQy/view?usp=sharing)<br>
 
 
+Modelagem de Domínios Ricos
+---------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-modelagem-de-dominios-ricos)<br>
+**Emitido em:** 11 de Agosto de 2022<br>
+**Código do certificado:** [1468fbfd-5b8f-4afe-9628-28f3d2d48424](https://desenvolvedor.io/certificados/1468fbfd-5b8f-4afe-9628-28f3d2d48424/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/1468fbfd-5b8f-4afe-9628-28f3d2d48424)<br>
+
+
 MySQL
 -----
 **Modalidade:** Ensino à Distância<br>
