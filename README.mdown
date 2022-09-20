@@ -49,6 +49,15 @@ Dominando o Entity Framework Core
 [Visualizar certificado](https://desenvolvedor.io/certificado/b9e83688-80ac-425f-8c5d-b820e4f4bedb)<br>
 
 
+Fundamentos de Arquitetura de Software
+--------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-fundamentos-de-arquitetura-de-software)<br>
+**Emitido em:** 18 de Julho de 2022<br>
+**Código do certificado:** [9c98ce2c-eb24-41d6-8422-ccdbaa87faf0](https://desenvolvedor.io/certificados/9c98ce2c-eb24-41d6-8422-ccdbaa87faf0/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/9c98ce2c-eb24-41d6-8422-ccdbaa87faf0)<br>
+
+
 Fundamentos de IdentityServer4
 ------------------------------
 **Modalidade:** Ensino à Distância<br>
