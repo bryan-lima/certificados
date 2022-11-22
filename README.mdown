@@ -3,6 +3,14 @@ Certificados
 
 Este repositório concentra uma lista, em ordem alfabética, de certificados emitidos dos cursos que finalizei.
 
+ASP.NET Core Enterprise Applications
+------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-asp-net-core-enterprise-applications)<br>
+**Emitido em:** 27 de Outubro de 2022<br>
+**Código do certificado:** [8f761e98-eccd-44d5-8901-c184d01da8b9](https://desenvolvedor.io/certificados/8f761e98-eccd-44d5-8901-c184d01da8b9/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/8f761e98-eccd-44d5-8901-c184d01da8b9)<br>
+
 
 Aprenda o que são Estrutura de Dados e Algoritmos
 -------------------------------------------------
