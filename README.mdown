@@ -84,6 +84,15 @@ Formação Arquiteto de Software
 [Visualizar certificado](https://desenvolvedor.io/certificado/9afe2fef-db73-4d91-9925-68966f91216a)<br>
 
 
+Formação ASP.NET Core Expert
+----------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/formacao/asp-net-core-expert)<br>
+**Emitido em:** 27 de Outubro de 2022<br>
+**Código do certificado:** [3966734f-e931-4a10-b3f4-c4b9d04f3a1b](https://desenvolvedor.io/certificados/3966734f-e931-4a10-b3f4-c4b9d04f3a1b/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/3966734f-e931-4a10-b3f4-c4b9d04f3a1b)<br>
+
+
 Formação ASP.NET MVC 5 Expert
 -----------------------------
 **Modalidade:** Ensino à Distância<br>
