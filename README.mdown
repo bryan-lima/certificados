@@ -39,6 +39,15 @@ Conceitos e melhores práticas com banco de dados PostgreSQL
 [Visualizar certificado](https://certificates.digitalinnovation.one/3B00F495)<br>
 
 
+Desenvolvimento SPA com Angular
+-------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-desenvolvimento-spa-com-angular)<br>
+**Emitido em:** 29 de Outubro de 2022<br>
+**Código do certificado:** [3fe55fe5-8b59-48b0-b7f5-ea6db72f61e0](https://desenvolvedor.io/certificados/3fe55fe5-8b59-48b0-b7f5-ea6db72f61e0/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/3fe55fe5-8b59-48b0-b7f5-ea6db72f61e0)<br>
+
+
 Dominando o ASP.NET MVC Core
 ----------------------------
 **Modalidade:** Ensino à Distância<br>
