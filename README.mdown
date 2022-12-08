@@ -39,6 +39,15 @@ Conceitos e melhores práticas com banco de dados PostgreSQL
 [Visualizar certificado](https://certificates.digitalinnovation.one/3B00F495)<br>
 
 
+Desenvolvimento Avançado em Angular
+-----------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-desenvolvimento-avancado-em-angular)<br>
+**Emitido em:** 16 de Novembro de 2022<br>
+**Código do certificado:** [1632177b-340a-4b08-bd25-91778ca648d4](https://desenvolvedor.io/certificados/1632177b-340a-4b08-bd25-91778ca648d4/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/1632177b-340a-4b08-bd25-91778ca648d4)<br>
+
+
 Desenvolvimento SPA com Angular
 -------------------------------
 **Modalidade:** Ensino à Distância<br>
