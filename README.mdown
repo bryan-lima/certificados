@@ -120,6 +120,15 @@ Formação ASP.NET MVC 5 Expert
 [Visualizar certificado](https://desenvolvedor.io/certificado/51bb3de8-2c2c-473c-b61c-540f1e1777f2)<br>
 
 
+Formação Front-End Angular Expert
+---------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/formacao/front-end-angular-expert)<br>
+**Emitido em:** 16 de Novembro de 2022<br>
+**Código do certificado:** [53f7c006-dd9e-40b4-9270-b7a0c0cfdca0](https://desenvolvedor.io/certificados/53f7c006-dd9e-40b4-9270-b7a0c0cfdca0/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/53f7c006-dd9e-40b4-9270-b7a0c0cfdca0)<br>
+
+
 Fundamentos de Arquitetura de Software
 --------------------------------------
 **Modalidade:** Ensino à Distância<br>
