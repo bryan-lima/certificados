@@ -129,6 +129,15 @@ Formação Front-End Angular Expert
 [Visualizar certificado](https://desenvolvedor.io/certificado/53f7c006-dd9e-40b4-9270-b7a0c0cfdca0)<br>
 
 
+Formação Full Stack Developer
+-----------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/formacao/full-stack-developer)<br>
+**Emitido em:** 16 de Novembro de 2022<br>
+**Código do certificado:** [e9aa9206-0c4c-4b42-895d-89e2a51fcdae](https://desenvolvedor.io/certificados/e9aa9206-0c4c-4b42-895d-89e2a51fcdae/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/e9aa9206-0c4c-4b42-895d-89e2a51fcdae)<br>
+
+
 Fundamentos de Arquitetura de Software
 --------------------------------------
 **Modalidade:** Ensino à Distância<br>
