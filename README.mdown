@@ -147,6 +147,15 @@ Fundamentos de Arquitetura de Software
 [Visualizar certificado](https://desenvolvedor.io/certificado/9c98ce2c-eb24-41d6-8422-ccdbaa87faf0)<br>
 
 
+Fundamentos de Criptografia e Hashing
+-------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-fundamentos-criptografia-hashing)<br>
+**Emitido em:** 17 de Novembro de 2022<br>
+**Código do certificado:** [a39766d1-d952-425b-9238-945ab575a638](https://desenvolvedor.io/certificados/a39766d1-d952-425b-9238-945ab575a638/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/a39766d1-d952-425b-9238-945ab575a638)<br>
+
+
 Fundamentos de IdentityServer4
 ------------------------------
 **Modalidade:** Ensino à Distância<br>
