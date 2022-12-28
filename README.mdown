@@ -57,6 +57,15 @@ Desenvolvimento SPA com Angular
 [Visualizar certificado](https://desenvolvedor.io/certificado/3fe55fe5-8b59-48b0-b7f5-ea6db72f61e0)<br>
 
 
+Dominando o Apache Kafka
+------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Desenvolvedor.io](https://desenvolvedor.io/curso-online-dominando-o-apache-kafka)<br>
+**Emitido em:** 22 de Novembro de 2022<br>
+**Código do certificado:** [bce94f3a-2f17-43ea-aa46-0bf3ec9608e5](https://desenvolvedor.io/certificados/bce94f3a-2f17-43ea-aa46-0bf3ec9608e5/validar)<br>
+[Visualizar certificado](https://desenvolvedor.io/certificado/bce94f3a-2f17-43ea-aa46-0bf3ec9608e5)<br>
+
+
 Dominando o ASP.NET MVC Core
 ----------------------------
 **Modalidade:** Ensino à Distância<br>
